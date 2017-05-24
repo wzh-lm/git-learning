@@ -9,3 +9,5 @@ I am exercising git software.
 wo chi bao le ,xixi !
 5.24-14:55
 Creating a new branch.
+5.24-15:06
+Tan zhen is so NB, and I will be better than him!
