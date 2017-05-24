@@ -6,7 +6,7 @@ But ,I will try to be a best software engineer in revoiew.
 5.24-10:30
 I am exercising git software.
 5.24-13.46
-wo chi bao le ,xixi !
+wo chi bao le ,haha!
 5.24-14:55
 Creating a new branch.
 5.24-15:06
