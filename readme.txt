@@ -15,3 +15,5 @@ Tan zhen is so NB, and I will be better than him!
 I like git-hub , because I can have my own fuwuqi!
 5.24-16:49
 After one hour , I will go back.
+5.31-8:50
+I am back! Since now I will work everyday here.
